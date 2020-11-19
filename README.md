@@ -1,0 +1,2 @@
+# SonarQube_GithubActions_test
+GithubActionsとSonarQubeを連携を確認するためのレポジトリ
