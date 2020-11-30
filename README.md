@@ -9,3 +9,8 @@ $ docker-compose exec php composer test -- html/tests
 
 ### Reference
 https://qiita.com/engineerjyef/items/6d54b8edcc636e29c1e2
+
+### Todo
+SonarQubeをAWSなどでホスティングしtockenを発酵させた後、レポジトリのsettingにて
+githubActionsに必要なtokenのkey, valueを入れる。
+
